@@ -5,8 +5,9 @@ So you can either use the Builded Release or Take the Signatures and implement t
 
 Requires:
 - NET8
+  
 How to use:
-Code:
+
 1. Launch The Division 2 with start argument "-disable_eos_sdk" (i did it on steam)
 2. when your in main screen so you are able to continue to go ingame,
 Launch the TD2-Dumper.exe as Admin it will search the offsets using patterns and create a file with all offsets inside.
