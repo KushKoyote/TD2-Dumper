@@ -1,5 +1,4 @@
 # TD2-Dumper
-TD2 Offset Dumper
 
 Notice for the code: 2-3 offsets dont have a sig didnt found a stable one so they are static definied (shouldnt be a problem didnt change in last updates)
 So you can either use the Builded Release or Take the Signatures and implement them in your products
